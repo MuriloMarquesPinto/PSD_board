@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Footprints)(type KiCad)(uri "$(KIPRJMOD)/Footprints")(options "")(descr ""))
+  (lib (name mikroBUS)(type KiCad)(uri "$(KIPRJMOD)/mikroBUS")(options "")(descr ""))
+  (lib (name "Logo Unifei")(type KiCad)(uri "$(KIPRJMOD)/Logo Unifei")(options "")(descr ""))
+  (lib (name "Logo Microchip")(type KiCad)(uri "$(KIPRJMOD)/Logo Microchip")(options "")(descr ""))
+)
